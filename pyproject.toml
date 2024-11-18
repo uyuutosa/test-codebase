@@ -1,0 +1,14 @@
+[project]
+name = "test-codebase"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.5",
+    "multipart>=1.1.0",
+    "opencv-python>=4.10.0.84",
+    "pillow>=11.0.0",
+    "python-multipart>=0.0.17",
+    "uvicorn>=0.32.0",
+]
